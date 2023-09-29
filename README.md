@@ -22,3 +22,12 @@ Memory and Storage:
 Communication:
 
 - Semtec SX1276 LoRa Transciever
+
+## TODO
+This is not an exhaustive list but is marked in order of priority:
+
+- Complete first draft of schematic
+	- Add TVS diodes to microSD card
+	- Potentially include SD card translator IC
+	- Final schematic review
+- Complete PCB layout and design
