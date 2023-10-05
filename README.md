@@ -27,9 +27,8 @@ Communication:
 This is not an exhaustive list but is marked in order of priority:
 
 - Complete first draft of schematic
-	- Change AM1117 regulator
+	- Add bus aliases where missing 
 	- Change power supply line selection circuitry
-	- Change status indicator circuitry
 	- Add TVS diodes to microSD card
 	- Potentially include SD card translator IC
 	- Final schematic review
