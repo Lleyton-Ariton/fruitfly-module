@@ -2163,7 +2163,7 @@
   (symbol (lib_id "RF_Components:PE4259") (at 46.99 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7bad372f-634a-4bce-ba4f-dafb84f068dc)
-    (property "Reference" "U402" (id 0) (at 46.99 147.32 0))
+    (property "Reference" "U403" (id 0) (at 46.99 147.32 0))
     (property "Value" "PE4259" (id 1) (at 46.99 149.86 0))
     (property "Footprint" "6-lead_SC-70:6-lead_SC-70" (id 2) (at 46.99 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
